@@ -3,6 +3,8 @@
 # else statement to take away a star at each line starting with 4 stars on 6th row/loop
 # printing a smaller index as the loop goes on till the end
 
+print ("This for loop will print a star pattern\n")
+
 star = "*"
 
 for i in range (1,10):
